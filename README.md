@@ -1,5 +1,5 @@
 # wireless-networks-projects
-wireless networks projects
+
 To submit your project to this repository, you need to do the following:
 
 1- Fork this Repo: The external user visits this repository on GitHub and clicks the Fork button to create a copy of it under their own account.
